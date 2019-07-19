@@ -1,0 +1,27 @@
+.ditto-container {
+    text-align: center;
+}
+
+.ditto {
+    display: inline-flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 45px;
+}
+
+.individual-pokemon-span {
+    min-width: 200px;
+}
+
+.pokemon-img {
+    width: 96px;
+    height: 96px;
+}
+
+table {
+    display: inline;
+}
+
+tr {
+    text-align: center;
+}
